@@ -6,6 +6,9 @@
 body{
     background: #000;
 }
+button{
+    border: none;
+}
 .container{
     max-width: 1140px;
     width: 100%;
